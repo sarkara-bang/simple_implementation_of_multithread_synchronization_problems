@@ -1,5 +1,5 @@
 # simple_implementation_of_multithread_synchronization_problems
-practice of some classic multithread synchronization problems
+practice of some classic multithread synchronization problems <br>
 1 生产者-消费者问题 <br>
 2 读者-写者问题 <br>
 3 哲学家进餐问题 <br>
